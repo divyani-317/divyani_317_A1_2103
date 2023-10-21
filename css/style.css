@@ -440,6 +440,10 @@ a {
   .card, .content-wrapper > .content-detai, .content-wrapper > img {
       max-width: 100%;
   }
+   .content-wrapper  .content-detail {
+       max-width: 100% !important;
+    }
+  }/* --
 } /* -------end------ */
 
 /****** Media queries for Tablets ******/
@@ -460,10 +464,6 @@ a {
 {
     .content-wrapper > img {
       max-width: 60%;
-    }
-
-    .content-wrapper > .content-detail {
-      max-width: 40%;
     }
 }/* -------end------ */
 
