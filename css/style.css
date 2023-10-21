@@ -321,12 +321,10 @@ footer {
 /* Imported external font-family */
 @font-face {
   font-family: Pacifico;
-  src: url(../fonts/Pacifico.ttf);
 }
 
 @font-face {
   font-family: Arial Rounded MT Bold;
-  src: url(../fonts/arialrounded.ttf);
 }
 
 /* -------end------ */
