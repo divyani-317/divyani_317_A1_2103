@@ -449,8 +449,8 @@ a {
      display: none;
   }
 
-  .content-wrapper > .content-detail {
-     max-width: 100%;
+  .content-wrapper  .content-detail {
+     max-width: 100% !important;
   }
 }/* -------end------ */
 
